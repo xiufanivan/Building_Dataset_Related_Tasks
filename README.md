@@ -15,5 +15,3 @@
 - crawl_images.py：爬取百度图片中你要想的图片
 - Image_deduplication.py：对目标文件夹的图片进行去重
 - dataset_partitioning.py：对数据集进行划分
-
- Building Dataset Related Tasks
